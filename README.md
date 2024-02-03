@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @qtankorley
-- 👀 I’m interested in Java and cloud
-- 🌱 I’m currently learning spring cloud
-- 💞️ I’m looking to collaborate on open source projects. Ideally something that solves a problem in Accra,Ghana.
+- 👀 I’m interested in FinTech, ML, Java
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: korlequaye@gmail.com
 
 <!---
